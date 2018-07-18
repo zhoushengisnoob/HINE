@@ -18,4 +18,4 @@ Heterogeneous Information Network Embedding: Methods and Implements.
 |  IPE |  KDD 2018 |  |
 
 # Acknowledgement
-Thanks for [Zhen-Zhang](https://github.com/cszhangzhen)'s contribution of collectting and organizing the methods! 
+Thanks for [Zhen-Zhang](https://github.com/cszhangzhen)'s contribution in collectting the methods! 
