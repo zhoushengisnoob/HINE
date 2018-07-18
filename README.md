@@ -11,7 +11,7 @@ Heterogeneous Information Network Embedding: Methods and Implements.
 |  [ASPEM](http://hanj.cs.illinois.edu/pdf/sdm18_yshi.pdf)  |  SIAM 2018 | [C++](https://github.com/ysyushi/aspem) |
 |  [HEER](http://www.yichang-cs.com/yahoo/bigdata16_heer.pdf)  |  KDD 2018  |  [PyTorch](https://github.com/GentleZhu/HEER)  |
 |  [SHINE](https://arxiv.org/pdf/1712.00732.pdf)  |  WSDM 2018  |    |
-|  [Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning](https://dl.acm.org/citation.cfm?id=3159711)| WSDM 2018 | [Pytorch](https://github.com/mnqu/DRL) |
+|  [DRL](https://dl.acm.org/citation.cfm?id=3159711)| WSDM 2018 | [Pytorch](https://github.com/mnqu/DRL) |
 |  [ProxEmbed](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14508/13756) |  AAAI 2017 | [Theano](https://github.com/vwz/ProxEmbed)| 
 |  [D2AGE](http://forward.cs.illinois.edu/pubs/2017/dagembed-aaai2018-lzzzcwy-201711.pdf) |  AAAI 2018 | [Theano](https://github.com/vwz/D2AGE)  |
 |  [SPE](https://dl.acm.org/citation.cfm?id=3186073)  | WWW 2018 |  [Theano](https://github.com/vwz/SPE) |
