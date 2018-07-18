@@ -16,3 +16,6 @@ Heterogeneous Information Network Embedding: Methods and Implements.
 |  [D2AGE](http://forward.cs.illinois.edu/pubs/2017/dagembed-aaai2018-lzzzcwy-201711.pdf) |  AAAI 2018 | [Theano](https://github.com/vwz/D2AGE)  |
 |  [SPE](https://dl.acm.org/citation.cfm?id=3186073)  | WWW 2018 |  [Theano](https://github.com/vwz/SPE) |
 |  IPE |  KDD 2018 |  |
+
+# Acknowledgement
+Thanks for [Zhen-Zhang](https://github.com/cszhangzhen)'s contribution of collectting and organizing the methods! 
