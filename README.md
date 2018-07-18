@@ -1,2 +1,6 @@
 # HINE
-Heterogeneous Information Network Embedding
+Heterogeneous Information Network Embedding: Methods and Implements.
+
+# Paper
+
+# Acknowledge
