@@ -18,6 +18,8 @@
 |  [HINE: Heterogeneous Information Network Embedding for Meta Path based Proximity](https://arxiv.org/pdf/1701.05291.pdf)  |  Arxiv 2017  |    |
 |  [AMPE:Attention Based Meta Path Fusion for Heterogeneous Information Network Embedding](http://shichuan.org/doc/55.pdf)  |  PRICAI 2018 |    |
 |  [HERec: Heterogeneous Information Network Embedding for Recommendation](http://shichuan.org/doc/48.pdf)  |  TKDE 2018  |  [python](https://github.com/librahu/HERec)  |
+|  [HNE: Heterogeneous Network Embedding via Deep Architectures](https://dl.acm.org/citation.cfm?id=2783296)  |  KDD 2015  |    |
+|  [Learning Latent Representations of Nodes for Classifying in Heterogeneous Social Networks](http://webia.lip6.fr/~gallinar/gallinari/uploads/Teaching/WSDM2014-jacob.pdf)  |  WSDM 2014  |    |
 
 # TIPS
 If you find this repository useful to your research or work, it is really appreciate to star this repository.
