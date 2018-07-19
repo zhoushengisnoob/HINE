@@ -15,6 +15,7 @@
 |  [D2AGE](http://forward.cs.illinois.edu/pubs/2017/dagembed-aaai2018-lzzzcwy-201711.pdf) |  AAAI 2018 | [Theano](https://github.com/vwz/D2AGE)  |
 |  [SPE](https://dl.acm.org/citation.cfm?id=3186073)  | WWW 2018 |  [Theano](https://github.com/vwz/SPE) |
 |  IPE |  KDD 2018 |  |
+|  [HINE](https://arxiv.org/pdf/1701.05291.pdf)  |  Arxiv 2017  |    |
 
 # TIPS
 If you find this repository useful to your research or work, it is really appreciate to star this repository.
