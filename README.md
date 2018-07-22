@@ -20,6 +20,10 @@
 |  [HERec: Heterogeneous Information Network Embedding for Recommendation](http://shichuan.org/doc/48.pdf)  |  TKDE 2018  |  [python](https://github.com/librahu/HERec)  |
 |  [HNE: Heterogeneous Network Embedding via Deep Architectures](https://dl.acm.org/citation.cfm?id=2783296)  |  KDD 2015  |    |
 |  [Learning Latent Representations of Nodes for Classifying in Heterogeneous Social Networks](http://webia.lip6.fr/~gallinar/gallinari/uploads/Teaching/WSDM2014-jacob.pdf)  |  WSDM 2014  |    |
+|  [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/fp292-Tang.pdf)   |  KDD 2015  |  [C++](https://github.com/mnqu/PTE)  |
+|  [ESim: Meta-Path Guided Embedding for Similarity Search in Large-Scale Heterogeneous Information Networks](https://arxiv.org/pdf/1610.09769.pdf)  |  Arxiv 2017  |  [Ubuntu Tool](https://github.com/shangjingbo1226/ESim)  |
+|  [HeBe:Large-Scale Embedding Learning in Heterogeneous Event Data](https://ieeexplore.ieee.org/document/7837924/)  |  ICDM 2016  |  [C](https://github.com/olittle/Hebe) |
+
 
 # TIPS
 If you find this repository useful to your research or work, it is really appreciate to star this repository.
