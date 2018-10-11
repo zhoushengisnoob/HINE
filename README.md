@@ -23,10 +23,8 @@
 |  [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/fp292-Tang.pdf)   |  KDD 2015  |  [C++](https://github.com/mnqu/PTE)  |
 |  [ESim: Meta-Path Guided Embedding for Similarity Search in Large-Scale Heterogeneous Information Networks](https://arxiv.org/pdf/1610.09769.pdf)  |  Arxiv 2017  |  [Ubuntu Tool](https://github.com/shangjingbo1226/ESim)  |
 |  [HeBe:Large-Scale Embedding Learning in Heterogeneous Event Data](https://ieeexplore.ieee.org/document/7837924/)  |  ICDM 2016  |  [C](https://github.com/olittle/Hebe) |
-|  [Task-Guided and Path-Augmented Heterogeneous Network
-Embedding for Author Identification](https://arxiv.org/pdf/1612.02814.pdf)  |  WSDM 2017  |  [C++](https://github.com/chentingpc/GuidedHeteEmbedding)  |
-|  [Heterogeneous Information Network Embedding for
-Meta Path based Proximity](https://arxiv.org/pdf/1701.05291.pdf)  |  Arxiv 2017  |    |
+|  [Task-Guided and Path-Augmented Heterogeneous Network Embedding for Author Identification](https://arxiv.org/pdf/1612.02814.pdf)  |  WSDM 2017  |  [C++](https://github.com/chentingpc/GuidedHeteEmbedding)  |
+|  [Heterogeneous Information Network Embedding for Meta Path based Proximity](https://arxiv.org/pdf/1701.05291.pdf)  |  Arxiv 2017  |    |
 
 
 # TIPS
