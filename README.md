@@ -7,7 +7,6 @@
 |  [metagraph2vec](https://arxiv.org/pdf/1803.02533.pdf)  | PAKDD 2018  |  [Java](https://github.com/daokunzhang/MetaGraph2Vec) |
 |  [BiNE: Bipartite Network Embedding](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-bipartiteNE.pdf)| SIGIR 2018| [python](https://github.com/clhchtcjj/BiNE) |
 |  [HIN2Vec](http://shichuan.org/hin/topic/Embedding/2017.%20CIKM%20HIN2Vec.pdf)| CIKM 2017 | [python](https://github.com/csiesheep/hin2vec) |
-
 |  [ASPEM: Embedding Learning by Aspects in Heterogeneous Information Networks](http://hanj.cs.illinois.edu/pdf/sdm18_yshi.pdf)  |  SIAM 2018 | [C++](https://github.com/ysyushi/aspem) |
 |  [HEER:Heterogeneous Graph Embedding for Emerging Relation Detection from News](http://www.yichang-cs.com/yahoo/bigdata16_heer.pdf)  |  KDD 2018  |  [PyTorch](https://github.com/GentleZhu/HEER)  |
 |  [SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction](https://arxiv.org/pdf/1712.00732.pdf)  |  WSDM 2018  |    |
