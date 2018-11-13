@@ -2,6 +2,9 @@
 
 |    Paper    |  Conference  |  Code |
 |  :---------  | :------:  | :------: |
+|  [Easing Embedding Learning by Comprehensive Transcription of Heterogeneous Information Networks
+Yu]  |  KDD 2018  |  [Pytorch](https://github.com/GentleZhu/HEER)  |
+|  [Did You Enjoy the Ride: Understanding Passenger Experience via Heterogeneous Network Embedding](https://www.semanticscholar.org/paper/Did-You-Enjoy-the-Ride-%3A-Understanding-Passenger-Yang-Zhang/b95e70269ab4f1c8adcf0dc53b7ad53098df7c0f)  |  ICDE 2018  |  [Pytorch](http://jiyang3.web.engr.illinois.edu/publication.html) |
 |  [AMPE:Attention Based Meta Path Fusion for Heterogeneous Information Network Embedding](http://shichuan.org/doc/55.pdf)  |  PRICAI 2018 |    |
 |  [HERec: Heterogeneous Information Network Embedding for Recommendation](http://shichuan.org/doc/48.pdf)  |  TKDE 2018  |  [python](https://github.com/librahu/HERec)  |
 |  [metagraph2vec](https://arxiv.org/pdf/1803.02533.pdf)  | PAKDD 2018  |  [Java](https://github.com/daokunzhang/MetaGraph2Vec) |
