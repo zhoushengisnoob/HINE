@@ -2,6 +2,9 @@
 
 |    Paper    |  Conference  |  Code |
 |  :---------  | :------:  | :------: |
+| [HAHE: Hierarchical Attentive Heterogeneous Information Network Embedding](https://arxiv.org/pdf/1902.01475.pdf) | Arxiv 2019 | [Pytorch](https://github.com/zhoushengisnoob/HAHE)|
+|  [Heterogeneous Graph Attention Network](http://shichuan.org/doc/66.pdf) | WWW 2019 | [Tensorflow](https://github.com/Jhy1993/HAN) |
+|  [Adversarial Learning on Heterogeneous Information Networks](http://shichuan.org/doc/70.pdf) | KDD 2019 |  [TensorFlow](https://github.com/librahu/HeGAN) |
 |  [Easing Embedding Learning by Comprehensive Transcription of Heterogeneous Information Networks Yu](https://arxiv.org/pdf/1807.03490.pdf)  |  KDD 2018  |  [Pytorch](https://github.com/GentleZhu/HEER)  |
 |  [Did You Enjoy the Ride: Understanding Passenger Experience via Heterogeneous Network Embedding](https://www.semanticscholar.org/paper/Did-You-Enjoy-the-Ride-%3A-Understanding-Passenger-Yang-Zhang/b95e70269ab4f1c8adcf0dc53b7ad53098df7c0f)  |  ICDE 2018  |  [Pytorch](http://jiyang3.web.engr.illinois.edu/publication.html) |
 |  [AMPE:Attention Based Meta Path Fusion for Heterogeneous Information Network Embedding](http://shichuan.org/doc/55.pdf)  |  PRICAI 2018 |    |
