@@ -1,5 +1,7 @@
 # Heterogeneous Information Network Embedding: Methods and Implements.
 
+# This repo is no longer active since 2020
+
 |    Paper    |  Conference  |  Code |
 |  :---------  | :------:  | :------: |
 | [HAHE: Hierarchical Attentive Heterogeneous Information Network Embedding](https://arxiv.org/pdf/1902.01475.pdf) | Arxiv 2019 | [Pytorch](https://github.com/zhoushengisnoob/HAHE)|
